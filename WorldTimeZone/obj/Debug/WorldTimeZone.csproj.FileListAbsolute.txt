@@ -1,0 +1,6 @@
+F:\Projects\WorldTimeZone\WorldTimeZone\bin\Debug\WorldTimeZone.exe.config
+F:\Projects\WorldTimeZone\WorldTimeZone\bin\Debug\WorldTimeZone.exe
+F:\Projects\WorldTimeZone\WorldTimeZone\bin\Debug\WorldTimeZone.pdb
+F:\Projects\WorldTimeZone\WorldTimeZone\obj\Debug\WorldTimeZone.csprojResolveAssemblyReference.cache
+F:\Projects\WorldTimeZone\WorldTimeZone\obj\Debug\WorldTimeZone.exe
+F:\Projects\WorldTimeZone\WorldTimeZone\obj\Debug\WorldTimeZone.pdb
